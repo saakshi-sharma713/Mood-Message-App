@@ -21,13 +21,13 @@ A simple and responsive React app that changes the background color and displays
 ---
 
 ## 📂 Project Structure
-MoodChanger/
-│── src/
-│ ├── App.jsx # Main application file
-│ ├── index.css # Tailwind base styles
-│── public/
-│── package.json
-│── README.md
+-MoodChanger/
+-│── src/
+-│ ├── App.jsx # Main application file
+-│ ├── index.css # Tailwind base styles
+-│── public/
+-│── package.json
+-│── README.md
 
 ## 🚀 Getting Started
 
