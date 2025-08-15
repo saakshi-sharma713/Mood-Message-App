@@ -8,7 +8,7 @@ A simple and responsive React app that changes the background color and displays
 - Select from multiple moods (`Happy`, `Sad`, `Exhausted`).
 - Background color changes based on the selected mood.
 - Smooth transition animations.
-- Fully responsive design for all screen sizes.
+- User Friendly UI
 
 ---
 
