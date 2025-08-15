@@ -1,8 +1,48 @@
-# React + Vite
+# 🎭 Mood Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive React app that changes the background color and displays a mood-based message using Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Select from multiple moods (`Happy`, `Sad`, `Exhausted`).
+- Background color changes based on the selected mood.
+- Smooth transition animations.
+- Fully responsive design for all screen sizes.
+
+---
+
+
+## 🛠 Tech Stack
+- **React** – Component-based UI
+- **Tailwind CSS** – Styling and responsiveness
+- **JavaScript (ES6+)**
+
+---
+
+## 📂 Project Structure
+MoodChanger/
+│── src/
+│ ├── App.jsx # Main application file
+│ ├── index.css # Tailwind base styles
+│── public/
+│── package.json
+│── README.md
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/mood-changer.git
+cd mood-changer
+### 2️⃣ Install Dependencies
+bash
+Copy
+Edit
+npm install
+### 3️⃣ Run the Development Server
+bash
+Copy
+Edit
+npm run dev
+Then open http://localhost:5173 in your browser.
