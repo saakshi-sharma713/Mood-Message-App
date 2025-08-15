@@ -25,17 +25,10 @@ A simple and responsive React app that changes the background color and displays
 ## 🚀 Getting Started
 
 ## 1️⃣ Clone the Repository
-bash
 git clone https://github.com/yourusername/mood-changer.git
 cd mood-changer
 ## 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 npm install
 ## 3️⃣ Run the Development Server
-bash
-Copy
-Edit
 npm run dev
 Then open http://localhost:5173 in your browser.
