@@ -1,4 +1,4 @@
-# 🎭 Mood Changer App
+# 🎭 Mood Message App
 
 A simple and responsive React app that changes the background color and displays a mood-based message using Tailwind CSS.
 
@@ -31,16 +31,16 @@ MoodChanger/
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
+## 1️⃣ Clone the Repository
+bash
 git clone https://github.com/yourusername/mood-changer.git
 cd mood-changer
-### 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 npm install
-### 3️⃣ Run the Development Server
+## 3️⃣ Run the Development Server
 bash
 Copy
 Edit
